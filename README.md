@@ -6,7 +6,7 @@ responsible of index.html functionality:
  - fetchProducts.js - fetching all the products from the API
 
  - store.js - add and get products to and from the local storage
-    checking if the products is in the local storage if not return [].
+    checking if the products is in the local storage if not return an empty list.
 
  - displayProducts.js - in index.html , display the products that have featured = true(index.js)
         - setupCart.js - add the items to cart
@@ -25,8 +25,8 @@ responsible of index.html functionality:
     price.js - filter by price using input event
 
 ## product.html
-### product.html
--display 1 product(depend on the id) on different page - using fetch req
+### product.js
+-display 1 product (depend on the id) on different page - using fetch req
 
 ## cart - in all pages
 -toggleCart.js - open and close the cart
