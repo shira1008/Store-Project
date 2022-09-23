@@ -26,10 +26,10 @@ responsible of index.html functionality:
 
 ## product.html
 ### product.js
--display 1 product (depend on the id) on different page - using fetch req
+- display 1 product (depend on the id) on different page - using fetch req
 
 ## cart - in all pages
--toggleCart.js - open and close the cart
--setupCart.js - checking if the item in the local storage using store.js. function addToCart using in all pages, add the item or update it in the cart if already exist.
+- toggleCart.js - open and close the cart
+- setupCart.js - checking if the item in the local storage using store.js. function addToCart using in all pages, add the item or update it in the cart if already exist.
 event listeners to remove increase or decrease the amount of the item.
--addToCartDOM.js - grab product info and add to the DOM - display the items in the cart
+- addToCartDOM.js - grab product info and add to the DOM - display the items in the cart
