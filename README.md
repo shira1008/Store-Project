@@ -2,17 +2,17 @@
 ### index.js
 responsible of index.html functionality:
 
-             - Utils.js - contain: api url for all projects, url for single project , get element function, formattedPrice
 
+ - fetchProducts.js - fetching all the products from the API
 
-    - fetchProducts.js - fetching all the products from the API
-
-    - store.js - add and get products to and from the local storage
+ - store.js - add and get products to and from the local storage
     checking if the products is in the local storage if not return [].
 
-    - displayProducts.js - in index.html , display the products that have featured = true(index.js)
+ - displayProducts.js - in index.html , display the products that have featured = true(index.js)
         - setupCart.js - add the items to cart
         - save the items in the storage
+        
+####   Utils.js - contain: api url for all projects, url for single project , get element function, formattedPrice
 
 ## products.html
 ### products.js
@@ -28,7 +28,7 @@ responsible of index.html functionality:
 ### product.html
 -display 1 product(depend on the id) on different page - using fetch req
 
-## CART - in all pages
+## cart - in all pages
 -toggleCart.js - open and close the cart
 -setupCart.js - checking if the item in the local storage using store.js. function addToCart using in all pages, add the item or update it in the cart if already exist.
 event listeners to remove increase or decrease the amount of the item.
