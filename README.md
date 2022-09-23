@@ -35,3 +35,7 @@ responsible of index.html functionality:
 - setupCart.js - checking if the item in the local storage using store.js. function addToCart using in all pages, add the item or update it in the cart if already exist.
 event listeners to remove increase or decrease the amount of the item.
 - addToCartDOM.js - grab product info and add to the DOM - display the items in the cart
+
+## Live site
+ <a href="https://store-shira.netlify.app"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/netlify.svg' alt='netlify' height='40'></a>
+
