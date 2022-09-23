@@ -1,4 +1,5 @@
 # Comfy store 🏪
+A furniture store - Comfy. I used an API from a Udemy course( JS Course ), Created the functionality using JS. U can add to cart, filter by price , by brand , search and more.
 
 ## index.html
 ### index.js
