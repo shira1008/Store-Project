@@ -12,7 +12,7 @@ responsible of index.html functionality:
         - setupCart.js - add the items to cart
         - save the items in the storage
         
-####   Utils.js - contain: api url for all the project, url for single project , get element function, formattedPrice
+####   Utils.js - contain: api url for all the products, url for single product , get element function, formattedPrice
 
 ## products.html
 ### products.js
