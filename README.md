@@ -1,3 +1,5 @@
+# Comfy store 🏪
+
 ## index.html
 ### index.js
 responsible of index.html functionality:
