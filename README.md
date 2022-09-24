@@ -13,8 +13,8 @@ responsible of index.html functionality:
 
  - displayProducts.js - in index.html , display the products that have featured = true(index.js)</br>
  
-        - setupCart.js - add the items to cart
-        - save the items in the storage
+      - setupCart.js - add the items to cart
+       - save the items in the storage
         
 ####   Utils.js - contain: api url for all the products, url for single product , get element function, formattedPrice
 
