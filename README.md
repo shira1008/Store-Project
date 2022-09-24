@@ -18,7 +18,7 @@ responsible of index.html functionality:
 
 ## products.html
 ### products.js
-- use display to display all the products from local storage, once the products loads hide the page loading.
+- use display to display all the products from local storage (if there) , once the products loads hide the page loading.
 
     - search.js - invoke displayProducts(store, getElement(".class")) with different data, filter depend on the search (keyup) , saving the data in the storage (store.js).
 
