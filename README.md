@@ -11,7 +11,8 @@ responsible of index.html functionality:
  - store.js - add and get products to and from the local storage
     checking if the products is in the local storage if not return an empty list.
 
- - displayProducts.js - in index.html , display the products that have featured = true(index.js)
+ - displayProducts.js - in index.html , display the products that have featured = true(index.js)</br>
+ 
         - setupCart.js - add the items to cart
         - save the items in the storage
         
