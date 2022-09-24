@@ -17,10 +17,10 @@ responsible of index.html functionality:
 ####   Utils.js - contain: api url for all the products, url for single product , get element function, formattedPrice
 
 ## products.html
-### products.js
+### products.js (in src file )
 - use display to display all the products from local storage (if there) , once the products loads hide the page loading.
 
-    - search.js - invoke displayProducts(store, getElement(".class")) with different data, filter depend on the search (keyup) , saving the data in the storage (store.js).
+    - search.js - invoke 	``` displayProducts(store, getElement(".class")) 	``` with different data, filter depend on the search (keyup) , saving the data in the storage (store.js).
 
     - companies.js - btns that depend of the company's name and filter by click (if clicked == company's name).
 
